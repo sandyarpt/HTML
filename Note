@@ -1,0 +1,11 @@
+<!-- fontawesome link  -->
+<!-- script for 5.15.4 , change the version in the search box to 5.15.4 and take the icons code.
+If  5.15.4  version is not available in the fontawesome search box then change the script with the new version end
+include it in the head section instead of this 5.15.4 script to use the icons -->
+ 
+ <script src="https://kit.fontawesome.com/983b29f98a.js" crossorigin="anonymous"></script>
+
+ <!-- for twitter image -->
+ <i class="fab fa-twitter fa-2x"></i>
+
+ <!-- fa-2x - is added for size changing,value can varry from 1 to 10. eg..  fa-5x, fa-10x like this for changing the size of the icon -->
